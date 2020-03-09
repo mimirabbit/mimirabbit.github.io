@@ -18,8 +18,8 @@
   
   <entry>
     <title>one</title>
-    <link href="https://mimirabbit.github.io/2020/03/06/one/"/>
-    <id>https://mimirabbit.github.io/2020/03/06/one/</id>
+    <link href="https://mimirabbit.github.io/2020/03/06/html/"/>
+    <id>https://mimirabbit.github.io/2020/03/06/html/</id>
     <published>2020-03-06T11:25:49.000Z</published>
     <updated>2020-03-06T11:25:49.052Z</updated>
     
@@ -32,16 +32,26 @@
   </entry>
   
   <entry>
-    <title>my</title>
-    <link href="https://mimirabbit.github.io/2020/03/06/my/"/>
-    <id>https://mimirabbit.github.io/2020/03/06/my/</id>
+    <title>JavaScript学习总结</title>
+    <link href="https://mimirabbit.github.io/2020/03/06/javascript/"/>
+    <id>https://mimirabbit.github.io/2020/03/06/javascript/</id>
     <published>2020-03-06T09:27:48.115Z</published>
-    <updated>2020-03-06T09:27:48.115Z</updated>
+    <updated>2020-03-09T18:08:35.597Z</updated>
     
     <summary type="html">
     
+      
+      
+        
+        
+          &lt;p&gt;JavaScript 的数据类型，共有六种：&lt;br&gt;1.数值（number）：整数和小数（比如1和3.14）&lt;br&gt;2.字符串（string）：文本（比如Hello
+        
+      
+    
     </summary>
     
+    
+      <category term="JavaScript" scheme="https://mimirabbit.github.io/categories/JavaScript/"/>
     
     
   </entry>

@@ -5,8 +5,8 @@
     
     <entry>
       <title>one</title>
-      <link href="/2020/03/06/one/"/>
-      <url>/2020/03/06/one/</url>
+      <link href="/2020/03/06/html/"/>
+      <url>/2020/03/06/html/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -17,12 +17,18 @@
     
     
     <entry>
-      <title>my</title>
-      <link href="/2020/03/06/my/"/>
-      <url>/2020/03/06/my/</url>
+      <title>JavaScript学习总结</title>
+      <link href="/2020/03/06/javascript/"/>
+      <url>/2020/03/06/javascript/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>JavaScript 的数据类型，共有六种：<br>1.数值（number）：整数和小数（比如1和3.14）<br>2.字符串（string）：文本（比如Hello World）。<br>3.布尔值（boolean）：表示真伪的两个特殊值，即true（真）和false（假）<br>4.undefined：表示“未定义”或不存在，即由于目前没有定义，所以此处暂时没有任何值<br>5.null：表示空值，即此处的值为空。<br>6.对象（object）：各种值组成的集合。</p>]]></content>
       
+      
+      <categories>
+          
+          <category> JavaScript </category>
+          
+      </categories>
       
       
     </entry>

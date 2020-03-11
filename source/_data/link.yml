@@ -1,0 +1,8 @@
+class:
+  class_name: 链接
+  link_list:
+    1:
+      name: JavaScript教程
+      link: https://wangdoc.com/javascript/
+      avatar: 
+      descr: 学习中
